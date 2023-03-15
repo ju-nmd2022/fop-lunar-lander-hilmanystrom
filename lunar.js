@@ -9,7 +9,6 @@ function planet(planetX, planetY) {
   translate(planetX, planetY);
   fill(50, 50, 50);
   ellipse(300, 550, 1000, 450);
-  fI;
   fill(60, 80, 60);
   ellipse(440, 380, 200, 80);
   fill(70, 90, 70);
